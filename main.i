@@ -28293,9 +28293,11 @@ namespace std
 }
 # 2 "main.cpp" 2
 
-# 2 "main.cpp"
+
+# 3 "main.cpp"
 using namespace std;
-int main()
-{
- cout << "Hello World" << end1;
+
+int main() {
+    cout << "Hello World" << endl;
+
 }
